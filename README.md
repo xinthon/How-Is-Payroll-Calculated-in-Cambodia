@@ -1,7 +1,7 @@
 <div id="table-of-contents" ></div>
 
 <section style="padding: 30px 0px;">
-    <p style="text-align: center; font-size: 35px; font-weight: bold">Payroll in Cambodia Comprehensive Guide for Employers</p>
+    <h1 style="text-align: center; font-size: 35px; font-weight: bold">Payroll in Cambodia Comprehensive Guide for Employers</h1>
 </section>
 
 <nav style="position: sticky; top: 0px; padding: 10px 0px; z-index: 1000;">
