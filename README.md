@@ -13,8 +13,6 @@
   - [Calculate income tax](#calculate-income-tax)
   - [Calculate social security contributions](#calculate-social-security-contributions)
   - [Calculate other deductions](#calculate-other-deductions)
-- [Setup](#setup)
-- [FAQ](#faq)
 
 How Is Payroll Calculated in Cambodia?
 Important Elements of Salary Structure in Cambodia
