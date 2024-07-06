@@ -9,10 +9,31 @@
 </nav>
 
 - [How Is Payroll Calculated in Cambodia?](#how-is-payroll-calculated-in-cambodia)
+
   - [Determine the gross salary](#determine-the-gross-salary)
   - [Calculate income tax](#calculate-income-tax)
   - [Calculate social security contributions](#calculate-social-security-contributions)
   - [Calculate other deductions](#calculate-other-deductions)
+  - [Determine the net salary](#determine-the-net-salary)
+
+- [Important Elements of Salary Structure in Cambodia](#important-elements-of-salary-structure-in-cambodia)
+  - [Basic salary](#basic-salary)
+  - [Allowances](#allowances)
+  - [Compensation and Minimum wage](#compensation-and-minimum-wage)
+  - [Overtime pay](#overtime-pay)
+  - [Social security contributions](#social-security-contributions)
+- [How to Set Up a Payroll in Cambodia](#how-to-set-up-a-payroll-in-cambodia)
+- [Payroll Contributions](#payroll-contributions)
+- [Payroll Cycle](#payroll-cycle)
+- [Cambodia Payroll Options for Companies](#cambodia-payroll-options-for-companies)
+  - [Internal payroll](#internal-payroll)
+  - [Remote payroll](#remote-payroll)
+  - [Local outsourcing](#local-outsourcing)
+  - [International payroll services](#international-payroll-services)
+- [Entitlement and Termination Terms](#entitlement-and-termination-terms)
+  - [Termination Procedure](#termination-procedure)
+- [Cambodia Payroll Processing Company](#cambodia-payroll-processing-company)
+- [How Multiplier Can Help With Global Payroll?](#how-multiplier-can-help-with-global-payroll)
 
 How Is Payroll Calculated in Cambodia?
 Important Elements of Salary Structure in Cambodia
@@ -93,7 +114,7 @@ This is the fixed amount paid to an employee for their work, exclusive of any ad
 
 These are payments made to employees in addition to their basic salary, usually to cover expenses such as housing, transportation, or meals. In Cambodia, common allowances include housing allowance, transportation allowance, and daily allowance.
 
-### Compensation/Minimum wage
+### Compensation And Minimum wage
 
 Starting on January 1, 2023, the minimum wage in Cambodia stands at $198 per month for workers still in their probationary period and $200 per month for regular workers.
 
